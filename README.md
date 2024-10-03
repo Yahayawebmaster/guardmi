@@ -36,7 +36,7 @@ expo start || npm run start || yarn start
  - Expo SDK 41
  - iOS, Android
  - React Navigation v4
- - PropTypes
+ - PropTypes.
 
 # Dependencies
  - [@expo/vector-icons](https://www.npmjs.com/package/@expo/vector-icons)
